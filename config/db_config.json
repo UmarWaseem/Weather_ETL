@@ -1,0 +1,5 @@
+{
+    "db": "project_db",
+    "mongo_url": "mongodb+srv://isbah:5Do3z8X2oTXNeEab@python-db.ua5uu.mongodb.net/",
+    "collection": "weather_data"
+}

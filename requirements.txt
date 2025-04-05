@@ -1,0 +1,7 @@
+pandas
+requests
+pymongo
+sqlalchemy
+schedule
+time
+pytz
